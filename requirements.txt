@@ -1,2 +1,2 @@
-aiogram==3.7.0
+python-3.11.9
 deep_translator
