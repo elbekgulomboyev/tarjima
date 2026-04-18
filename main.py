@@ -18,7 +18,7 @@ TOKEN = "7989031508:AAF7WWqRdcwgVK2iEdqcnJ8U_KnvcD_7-9A"
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
-
+# asdasdasdasdf
 class TranslateStates(StatesGroup):
     choosing_lang = State()  # Til tanlash bosqichi
     waiting_for_text = State() # Matn kutish bosqichi
