@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 aiogram
+=======
+aiogram-3.7.0
+>>>>>>> 67ff6c4 (test uchun)
