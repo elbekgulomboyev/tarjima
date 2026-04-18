@@ -18,7 +18,7 @@ TOKEN = "7989031508:AAF7WWqRdcwgVK2iEdqcnJ8U_KnvcD_7-9A"
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
-# Bot bosqichlari (Holatlar)
+
 class TranslateStates(StatesGroup):
     choosing_lang = State()  # Til tanlash bosqichi
     waiting_for_text = State() # Matn kutish bosqichi
